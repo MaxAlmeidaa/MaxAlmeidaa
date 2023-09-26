@@ -12,7 +12,7 @@
   <img align="center" alt="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px height=50px />
   <img align="center" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px height=50px />
   <img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px height=50px />
-  <img align="center" alt="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px height=50px />
+  <img align="center" alt="Wordpress" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/wordpress/wordpress-original.svg" width=50px height=50px />
 
 </div><br/>
 
